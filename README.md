@@ -1,20 +1,18 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Ramin Badri 👋
 
-I'm an AI enthusiast and researcher specializing in Machine Learning, Deep Learning, and IoT integration. Currently, I'm an AI programmer at Quera, contributing to real-world projects in predictive modeling and neural networks. My background includes a Master's in Computer Science with a focus on data mining and ML techniques.
+I'm an AI enthusiast and researcher specializing in Machine Learning, Deep Learning, and IoT integration.
+My background includes a Master's in Computer Science with a focus on data mining and ML techniques.
 
 ## 🚀 Skills & Expertise
 
 - **Machine Learning & AI**: Predictive modeling, text mining, IoT integration, deep learning (e.g., CNNs for image classification).
-- **Data Handling & Preprocessing**: Handling missing values (imputation), outlier detection (Z-score analysis), feature scaling (standardization/normalization), and feature selection (recursive feature elimination).
-- **Clustering & Recommender Systems**: Algorithms like K-means, DBSCAN, and hierarchical clustering; evaluated with metrics such as inertia and Davies-Bouldin index for building effective recommender systems.
-- **Model Evaluation**: Assessing performance with F1-score for classification tasks, ensuring balanced precision and recall.
 - **Research & Publications**: Co-authored articles in Iranian conferences (indexed in ISC), focusing on energy-efficient IoT ecosystems using ML clustering.
 
 ## 💻 Programming Languages & Tools
 
-- **Languages**: Python (primary for ML/AI projects).
-- **Libraries/Frameworks**: TensorFlow, PyTorch, scikit-learn, NLTK.
-- **Other Tools**: Git, GitHub, simulator software for IoT (e.g., for smart home sensor ecosystems).
+- **Languages**: Python, C/C++, HTML, CSS.
+- **Libraries/Frameworks**: TensorFlow, PyTorch, scikit-learn, NLTK, Pandas, Numpy, Matplotlib
+- **Other Tools**: Git, GitHub
 
 ## 📂 Key Projects
 
@@ -29,7 +27,7 @@ I'm an AI enthusiast and researcher specializing in Machine Learning, Deep Learn
 
 ## 📫 Connect with Me
 
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Email**: your.email@example.com
+- **LinkedIn**: https://www.linkedin.com/in/ramin-badri/
+- **Email**: ramin.badri69@gmail.com
 
 Feel free to explore my repositories and reach out for collaborations in AI and ML!
